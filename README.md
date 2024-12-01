@@ -1,18 +1,27 @@
 ### DashBoard UI - Project
 
-Make a basic auth using Google (Login/Signup using Google)
+<h3>high-fidelity design into code using React/Next and CSS/SASS/SCSS/LESS/Tailwind CSS</h3>
 
-Resource: https://next-auth.js.org/
+<hr/>
 
-Design File Link: https://www.figma.com/file/gKLhBDaTmdNDzHjsvqFMmC/Front-EndDeveloper-Task?node-id=0-1&t=rJ4A60cFvrDoc5TE-0
+<ul>
+  
+<li>Make a basic auth using Google (Login/Signup using Google)</li>
 
-The dashboard should be pixel-perfect and look like a design replica.
+<li>Resource: https://next-auth.js.org/ </li>
 
-The charts should be working with some dummy data.
+<li>Design File Link: https://www.figma.com/file/gKLhBDaTmdNDzHjsvqFMmC/Front-EndDeveloper-Task?node-id=0-1&t=rJ4A60cFvrDoc5TE-0</li>
+<br/>
 
-Fetch the basic data using Axios/Fetch. (You can build an API or fetch JSON from a public repo)
+<li>The dashboard should be pixel-perfect and look like a design replica.</li>
 
-Resource: https://github.com/public-apis/public-apis
+<li>The charts should be working with some dummy data.</li>
+
+<li>Fetch the basic data using Axios/Fetch. (You can build an API or fetch JSON from a public repo) </li>
+
+<li>Resource: https://github.com/public-apis/public-apis</li>
+
+</ul>
 
 # Getting Started with Create React App
 
