@@ -91,27 +91,6 @@ const Home = ({ logout }) => {
         />
         <StatsCard maxPopulation={maxPopulation} />
         <Charts onMaxPopulation={handleMaxPopulation} />
-
-        <p className="credit">
-          <a
-            target="_blank"
-            rel="noreferrer"
-            href="https://enally.in/projects/"
-          >
-            Checkout More Projects
-          </a>{" "}
-        </p>
-        <p className="credit">
-          Similar Dashboard:{" "}
-          <a
-            target="_blank"
-            rel="noreferrer"
-            href="https://classroombucket-v1.onrender.com/"
-          >
-            Classroom Bucket
-          </a>{" "}
-          - example@mail.com || password123{" "}
-        </p>
         <p className="credit">Copyright © {copyrightYear} Dashboard_UI.</p>
       </div>
     </div>
